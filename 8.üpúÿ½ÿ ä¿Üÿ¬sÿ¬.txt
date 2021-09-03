@@ -1,0 +1,14 @@
+1.Εργασία 2018
+2.PR_Assignment_2018.pdf
+3.PR_assignment_data
+4.Problem_Statement_Dataset_2018
+5.Assignment_Presentation
+6.template
+7.Support Material(ίσως)
+8.Υλοποίησε τη λύση σου
+Ξεκινώντας από προεπεξεργασία,clustering,μετρικές
+κλπ
+9.Κάνε πειράματα
+10.Αφού απαντήσεις στα ερωτήματα που σου ζητούνται
+πρόσθεσε δικά σου ερωτήματα(ίσως)
+11.Γράψε αναφορά
